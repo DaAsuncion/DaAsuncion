@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Danielle Serafim</h1>
+<h1 align="center">Hi :hugs:, I'm Danielle Serafim</h1>
 <h3 align="center">Focus on learning, keep coding!!!</h3>
 
 <div align="center">
